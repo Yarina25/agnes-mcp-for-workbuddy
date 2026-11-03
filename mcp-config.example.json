@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "agnes-video": {
+      "command": "python",
+      "args": [
+        "D:/projects/agnes-mcp-for-workbuddy/agnes_mcp_server.py"
+      ]
+    }
+  }
+}
